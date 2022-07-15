@@ -1,2 +1,1 @@
-# Operating-Systems-Practice
-CS 459
+# Practice with Semaphores
